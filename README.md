@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Surenre Manandhar
+- 👋 Hi, I’m Surendra Manandhar
 - 👀 I’m UI/UX designer.
 - 🌱 
 
