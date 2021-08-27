@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Surendra Manandhar
-- 👀 I’m UI/UX designer.
+- 👀 UI/UX designer.
 - 🌱 
 
 <!---
