@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @surenmdr4
-- 👀 I’m interested in UI/UX design.
-- 🌱 I’m currently learning PHP, Javascript, React.
+- 👋 Hi, I’m Surenre Manandhar
+- 👀 I’m UI/UX designer.
+- 🌱 
 
 <!---
 surenmdr4/surenmdr4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
